@@ -3,7 +3,7 @@
 
 A modular ergonomic columar staggered keyboard by Good Great Grand Wonderful LLC. 
 
-Made with a precise trackball sensor with the goal of eliminating the need to have another pointing device. 
+Made with a precise trackball sensor. Eliminating the need to have another pointing device, everything is within reach.
 
 ### Features
 
