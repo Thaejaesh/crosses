@@ -12,3 +12,7 @@ Made with a precise trackball sensor. Eliminating the need to have another point
 - Kailh Choc hotswap sockets, so you can explore and find your perfect switch
 - Left/Right or Dualing trackballs
 - Optional OLED screens
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
