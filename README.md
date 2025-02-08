@@ -23,6 +23,49 @@ Vial: https://github.com/Good-Great-Grand-Wonderful/crosses-vial-qmk/tree/gggw/c
 
 ZMK(testing): https://github.com/Good-Great-Grand-Wonderful/crosses-zmk
 
+### BOM
+
+#### Cases
+
+N = Number of trackballs
+
+| Qty       |3x5 | 3x6 | 4x6 | Item                                              | Notes                             |
+|-----------|----|-----|-----|---------------------------------------------------|-----------------------------------|
+| 24        | x  | x   | x   | 3mm Heat set inserts                              |                                   |
+| 16        | x  | x   | x   | 3mm x 5mm Hex Bolts                               | +2 for every trackball you delete |
+| 2xN       | x  | x   | x   | 3mm x 12mm Hex Bolts                              |                                   |
+| 2xN       | x  | x   | x   | 3mm x 8mm Hex Bolts                               |                                   |
+| 1         | x  | x   | x   | Thumb Cluster PCB Panel                           |                                   |
+| 4         | x  | x   | x   | Hirose FH12-14S 0.5SH 1x14 1MP P0.50mm Horizontal |                                   |
+| 2         | x  | x   | x   | SM06B-SRSS-TB(LF)(SN)                             |                                   |
+| 1         | x  |     |     | 3x5 Matrix PCB Panel                              |                                   |
+| 1         |    | x   |     | 3x6 Matrix PCB Panel                              |                                   |
+| 1         |    |     | x   | 4x6 Matrix PCB Panel                              |                                   |
+| 2         | x  |     |     | 100mm 14p 0.5mm pitch FFC cables                  |                                   |
+| 2         |    | x   | x   | 150mm 14p 0.5mm pitch FFC cables                  |                                   |
+| 1xN       | x  | x   | x   | 100mm 6p JST SH 1.0 Same direction cables         |                                   |
+| 2x        | x  | x   | x   | Thumb Cluster Case (one should be flipped)        |                                   |
+| 2x        | x  |     |     | 3x5 Matrix Case    (one should be flipped)        |                                   |
+| 2x        |    | x   |     | 3x6 Matrix Case    (one should be flipped)        |                                   |
+| 2x        |    |     | x   | 4x6 Matrix Case    (one should be flipped)        |                                   |
+| 36x       | x  |     |     | Kailh Choc Hotswap Sockets                        |                                   |
+| 42x       |    | x   |     | Kailh Choc Hotswap Sockets                        |                                   |
+| 54x       |    |     | x   | Kailh Choc Hotswap Sockets                        |                                   |
+| 36x       | x  |     |     | 1N4148 SMD SOD-123 Resistors                      |                                   |
+| 42x       |    | x   |     | 1N4148 SMD SOD-123 Resistors                      |                                   |
+| 54x       |    |     | x   | 1N4148 SMD SOD-123 Resistors                      |                                   |
+| 1xN       | x  | x   | x   | Trackball Mount    (one should be flipped)        |                                   |
+| 1xN       | x  | x   | x   | Trackball PCB                                     |                                   |
+| 1xN       | x  | x   | x   | PMW3360DM-T2QU + LM19-LSI                         | or sub a PMW3389                  |
+| 1xN       | x  | x   | x   | Trackball Carrier Base                            |                                   |
+| 1xN       | x  | x   | x   | Trackball Carrier Top                             |                                   |
+
+
+
+
+
+
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
