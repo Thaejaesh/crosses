@@ -23,6 +23,10 @@ Vial: https://github.com/Good-Great-Grand-Wonderful/crosses-vial-qmk/tree/gggw/c
 
 ZMK(testing): https://github.com/Good-Great-Grand-Wonderful/crosses-zmk
 
+### Gerbers
+
+Production ready and prepped with JLCPCB part numbers: [Gerbers](Gerbers)
+
 ### BOM
 
 #### Cases
